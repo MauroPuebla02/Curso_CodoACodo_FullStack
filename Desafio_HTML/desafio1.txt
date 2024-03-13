@@ -1,0 +1,8 @@
+Buenos días,
+
+Les dejo un pequeño desafío, como para practicar un poco de todo lo que fuimos viendo, hagamos un pequeño desarrollo (Todo HTML) . 
+
+Hagamos una página en donde detallemos como hacer una receta que nos guste, utilicemos las distintas etiquetas que fuimos aprendiendo.  Como agregado podemos hacer una segunda página en donde los usuarios nos envíen consultas a nosotros.
+
+
+Es un ejercicio para práctica, no es obligatorio.
